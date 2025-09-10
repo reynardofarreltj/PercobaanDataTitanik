@@ -26,4 +26,6 @@ Tiga variabel baru: `family_size`, `is_alone`, and `title`.
     titanic.loc[titanic['family_size'] == 1, 'is_alone'] = 1
     ```
 
+<img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/5fbfdf93-276c-4b93-a4fd-bf92c692c6a0" />
+
 ---
